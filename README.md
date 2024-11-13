@@ -1,2 +1,2 @@
-# mark04_tts
-AI Companion
+# MARK04
+AI Companion for your browser.
